@@ -1,4 +1,5 @@
-Fast React Pizza App 🍕
+# Fast React Pizza App 🍕
+
 A blazing-fast pizza ordering application built with React and React Router v6. This app provides a seamless user experience for browsing the menu, adding items to the cart, placing orders, and tracking order status, all powered by React Router's modern data APIs.
 
 ✨ Features
