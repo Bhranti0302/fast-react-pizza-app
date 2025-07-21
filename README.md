@@ -27,7 +27,7 @@ Based on your application's routing structure, here are the key features:
  ---
  
 🚀 Live Preview
-👉 Deploy Link: https://your-netlify-link.netlify.app
+👉 Deploy Link: (https://fast-react-pizza-app-website.netlify.app/)
 
 ---
 
